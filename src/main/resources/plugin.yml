@@ -1,0 +1,9 @@
+name: ItemHunt
+version: ${project.version}
+main: de.marvinleiers.itemhunt.ItemHunt
+api-version: 1.16
+authors: [ Marvin_Leiers, Marvin2k0 ]
+website: https://www.marvinleiers.de
+
+commands:
+  itemhunt:
